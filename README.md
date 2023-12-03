@@ -1,5 +1,4 @@
 # WeatherApp
-
 Going to create Weather App Mini Project
 
 Description : A weather app utilizing an API to retrieve weather information from various cities typically includes several key features and functionalities:
@@ -28,8 +27,10 @@ Outout:
 
 Splash Screen : 
 
-![WhatsApp Image 2023-10-30 at 20 38 01](https://github.com/Rutul5440/WeatherApp/assets/121927117/74587885-c65e-4b12-9165-fc2f77642729)
+![image](https://github.com/MakavanaRajesh/Weather_App/assets/139845106/326e5332-0be5-4a8c-862e-3fec1a233324)
+
 
 Main UI : 
 
-![WhatsApp Image 2023-10-30 at 20 38 01](https://github.com/Rutul5440/WeatherApp/assets/121927117/277f4156-26a7-42eb-8810-c5e3d020dc91)
+![image](https://github.com/MakavanaRajesh/Weather_App/assets/139845106/bafbfdfa-fc95-46c8-b998-622a0346d120)
+
